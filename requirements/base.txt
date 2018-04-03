@@ -1,0 +1,5 @@
+# Django Core Packages - Required
+# -------------------------------
+
+Django==2.0.3
+pytz==2018.3
