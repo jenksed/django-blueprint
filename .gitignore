@@ -1,0 +1,29 @@
+# Files ignored by Git
+# --------------------
+
+*.pyc
+*.py[cod]
+*$py.class
+__pycache__/
+
+*.log
+*.egg
+*.egg-info
+
+*.manifest
+*.spec
+
+.env
+.venv
+
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
