@@ -3,7 +3,7 @@ A project template designed for the Django 2.0+ framework, that allows any devel
 
 ### Prerequisites
 * [Python 3.4+](https://www.python.org/downloads/)
-* [PIP (Python Package Manager)](https://pip.pypa.io/en/stable/quickstart/)
+* [PIP](https://pip.pypa.io/en/stable/quickstart/) - Python Package Manager
 
 ### Usage
 ```
